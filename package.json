@@ -11,7 +11,9 @@
   "dependencies": {
     "next": "11.0.0",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "too-wordy": "^0.3.4",
+    "write-good": "^1.0.8"
   },
   "devDependencies": {
     "eslint": "7.29.0",

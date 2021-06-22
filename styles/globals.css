@@ -14,3 +14,18 @@ a {
 * {
   box-sizing: border-box;
 }
+
+@media(max-width:500px){
+  .a{
+    width: 80vw !important;
+    height: 45vh !important;
+  }
+  .p{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 110vh;
+  }
+}
